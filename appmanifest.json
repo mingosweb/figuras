@@ -1,9 +1,9 @@
 ﻿{
-	"name": "figuras",
-	"short_name": "figuras",
+	"name": "vestirse",
+	"short_name": "vestirse",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",

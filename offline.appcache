@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1460752264
+#1461907749
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -27,6 +27,14 @@ images/continuar-sheet0.png
 images/reload-sheet0.png
 images/volver-sheet0.png
 images/hueso-sheet0.png
+images/hueso-sheet1.png
+images/sprite-sheet0.png
+images/sprite3-sheet0.png
+images/sprite4-sheet0.png
+images/fondo3-sheet0.png
+images/titulo-sheet0.png
+images/comenzar-sheet0.png
+images/instrucciones-sheet0.png
 media/chicos_gritanchicos_gritan.m4a
 media/chicos_gritanchicos_gritan.ogg
 media/error%20de%20juego.ogg
